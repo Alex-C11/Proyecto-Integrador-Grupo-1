@@ -1,0 +1,4 @@
+P001	Poleras	23.0
+P002	Alpaca	45.0
+P003	Luisa	12.0
+P004	Poleron	32.0
